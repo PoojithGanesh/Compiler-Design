@@ -24,3 +24,7 @@ int main() {
     printf("%c'->%s|%s\n", production[0], beta1, beta2);
     return 0;
 }
+
+
+//Enter production (Example: A->ab|ac):
+//A->ab|cd
