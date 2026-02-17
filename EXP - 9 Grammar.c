@@ -31,3 +31,7 @@ int main()
         printf("String does NOT satisfy the grammar.\n");
     return 0;
 }
+
+
+//aabbb
+//aabb
