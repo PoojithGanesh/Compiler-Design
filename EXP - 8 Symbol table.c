@@ -44,3 +44,21 @@ int main()
     }
     return 0;
 }
+
+
+
+//1.Insert
+//2.Display
+//3.Exit
+//Enter choice: 1
+//Enter identifier name: b
+//Enter data type: int
+
+//1.Insert
+//2.Display
+//3.Exit
+//Enter choice: 2
+
+//Symbol Table
+//Name	Type
+//b	int
