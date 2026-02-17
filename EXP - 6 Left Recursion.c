@@ -24,3 +24,7 @@ int main() {
     printf("%c'->%s%c'|ε\n", nonTerminal, alpha, nonTerminal);
     return 0;
 }
+
+
+//Enter production (Example: A->Aa|b):
+//E->E+T|T
