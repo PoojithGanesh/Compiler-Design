@@ -33,3 +33,10 @@ int main()
     }
     return 0;
 }
+
+
+//Enter number of expressions: 3
+//Enter expression 1: t1=a+b
+//Enter expression 2: t2=s+d
+//Enter expression 3: t3=a+c
+
