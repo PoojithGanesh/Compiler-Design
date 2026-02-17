@@ -40,3 +40,7 @@ int main()
     }
     return 0;
 }
+
+
+//Enter number of three address statements: 2
+//Enter statement 1 (format: t1=a+b): t1=a+g
