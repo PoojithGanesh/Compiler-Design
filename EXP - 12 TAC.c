@@ -36,3 +36,6 @@ int main()
     }
     return 0;
 }
+
+
+//Enter expression (Example: w=r+a*b): x=a+b*c
