@@ -23,3 +23,8 @@ int main()
     printf("Lines      = %d\n", lines);
     return 0;
 }
+
+
+//Enter text (Press Enter twice to stop):
+//HELLO WORLD 
+//C PROGRAMMIN
