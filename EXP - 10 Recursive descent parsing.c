@@ -66,3 +66,8 @@ int main()
         printf("String Rejected\n");
     return 0;
 }
+
+
+
+//Enter expression: id+id*id
+//String Accepted
